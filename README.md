@@ -1,0 +1,3 @@
+# MiniGrep
+
+learning Rust
